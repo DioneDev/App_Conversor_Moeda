@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
 	btnConverter:{
 		width:150,
 		height:45,
-		backgroundColor:'#07EB47',
+		backgroundColor:'#07EB57',
 		borderRadius:5,
 		justifyContent:'center',
 		alignItems:'center',
